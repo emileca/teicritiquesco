@@ -1,0 +1,4 @@
+baseURL = 'https://teicritiquesco.org/'
+languageCode = 'fr'
+title = "Activité TEI (Histoire secondaire) /// (c) Émile CARON"
+theme = 'hugo-PaperMod'

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Activité TEI (Histoire secondaire) /// (c) Émile CARON</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on Activité TEI (Histoire secondaire) /// (c) Émile CARON</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <lastBuildDate>Tue, 12 Mar 2024 09:29:08 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Résumé</title>
+      <link>http://localhost:1313/posts/0resume/</link>
+      <pubDate>Tue, 12 Mar 2024 09:29:08 -0400</pubDate>
+      <guid>http://localhost:1313/posts/0resume/</guid>
+      <description>Ce travail propose d’initier les élèves de niveau secondaire à une méthode d&amp;rsquo;analyse des documents historiques qui s&amp;rsquo;inspire de la TEI. L’idée à la base de cet exercice est que la TEI, grâce au balisage thématique, peut permettre à l&amp;rsquo;élève de segmenter les différents éléments de sa pensée (Cariou, 2022) nécessaires pour construire une pensée historienne. Cette recherche est basée sur le cadre théorique de la pensée critique et tente de présenter certains contextes d’application de l’utilisation de la théorie des systèmes de balisage en milieu scolaire.</description>
+    </item>
+    <item>
+      <title>1. Introduction à l&#39;activité</title>
+      <link>http://localhost:1313/posts/1.introduction/</link>
+      <pubDate>Tue, 12 Mar 2024 09:26:08 -0400</pubDate>
+      <guid>http://localhost:1313/posts/1.introduction/</guid>
+      <description>Le dernier grand chantier de réforme du programme d&amp;rsquo;Histoire et Civilisation au Québec (2010) est marqué par une réorientation des compétences. On y délaisse graduellement l&amp;rsquo;apprentissage de l’Histoire sous la forme d&amp;rsquo;un récit, au profit de la transmission de la &amp;ldquo;méthode historique&amp;rdquo; et dans un sens plus large de la pensée critique (Wineburg, 2001). Les avantages de la pensée critique sont nombreux (développement d&amp;rsquo;une pensée structurée, de la rationalité, d’une aptitude à être critique face aux textes, etc.</description>
+    </item>
+    <item>
+      <title>2. Pourquoi la TEI à l&#39;école ?</title>
+      <link>http://localhost:1313/posts/2.justification/</link>
+      <pubDate>Tue, 12 Mar 2024 09:26:08 -0400</pubDate>
+      <guid>http://localhost:1313/posts/2.justification/</guid>
+      <description>L’idée qui justifie la création d’une méthode d’analyse d’une source historique inspirée de la TEI est la suivante : pour bien comprendre un texte historique, l’élève doit encoder un certain nombre d’éléments représentant la société à l’étude. Wineburg et al. (2011) nomme cette action le sourcing. Ces éléments euristiques, une fois décodés par l’élève, vont lui permettre d’arriver à sa propre conception du monde étudié.
+Sur le plan strictement pratique, le cerveau de l’élève ne diffère que très peu d’une requête SQL (par exemple) qui permet à un chercheu.</description>
+    </item>
+    <item>
+      <title>3. Correspondance des codes</title>
+      <link>http://localhost:1313/posts/3.correspondance/</link>
+      <pubDate>Tue, 12 Mar 2024 09:24:08 -0400</pubDate>
+      <guid>http://localhost:1313/posts/3.correspondance/</guid>
+      <description>L’étape la plus difficile dans la constitution de cet exercice est de mettre en relation les codes compris par l’élève avec un ensemble sémantique aussi complet et complexe comme la TEI. Cette section présente quelques éléments (euristiques) du sourcing – en plus de leur définition – et propose une équivalence au niveau de la TEI qui pourrait être utilisée par l’élève.
+Éléments de base du sourcing* Identifie, énonce l&amp;rsquo;auteur. Énonce l&amp;rsquo;intention de l&amp;rsquo;auteur.</description>
+    </item>
+    <item>
+      <title>4. Comment le balisage peut permettre à l&#39;élève de mieux lire un document</title>
+      <link>http://localhost:1313/posts/4.comment/</link>
+      <pubDate>Tue, 12 Mar 2024 09:22:08 -0400</pubDate>
+      <guid>http://localhost:1313/posts/4.comment/</guid>
+      <description>Le balisage permet à l’élève de segmenter les différents éléments qui lui permettront d’arriver à une réflexion historique. Si la TEI apparaît ici comme un outil de choix pour le balisage des sources historiques, c’est puisqu’elle se constitue de balises qui fonctionnent particulièrement bien dans le cadre des sciences humaines. L’analyse d’un texte au moyen de balises peut se faire chez l’élève de différentes façons (Lyster, 2016) : CONSCIENTISATION, PRATIQUE GUIDÉE ou PRATIQUE AUTONOME :</description>
+    </item>
+    <item>
+      <title>5. Un exemple : L&#39;appel aux croisades</title>
+      <link>http://localhost:1313/posts/5.exemple/</link>
+      <pubDate>Tue, 12 Mar 2024 09:19:08 -0400</pubDate>
+      <guid>http://localhost:1313/posts/5.exemple/</guid>
+      <description>(A) une source historique accompagnée de sont contexte qui aurait pu être présentée à un élève. Nous aurions demandé à ce dernier de le baliser (en lui expliquant la valeur de chaque balise). (B) Des réflexions possibles en lien avec le sourcing.
+A. Texte balisé &amp;lt;desc&amp;gt;Le &amp;lt;date&amp;gt;27 novembre 1095&amp;lt;date/&amp;gt;, &amp;lt;docAuthor&amp;gt;Urbain II&amp;lt;docAuthor/&amp;gt; , &amp;lt;roleName&amp;gt;le pape&amp;lt;roleName/&amp;gt; , proclame &amp;lt;time&amp;gt; la première croisade&amp;lt;time/&amp;gt; et appelle &amp;lt;orgName&amp;gt;les chevaliers chrétiens&amp;lt;orgName/&amp;gt; à libérer &amp;lt;place&amp;gt;Jérusalem&amp;lt;place/&amp;gt;.&amp;lt;desc/&amp;gt; Ô &amp;lt;orgName&amp;gt;fils de Dieu&amp;lt;orgName&amp;gt; !</description>
+    </item>
+    <item>
+      <title>6. Conclusion</title>
+      <link>http://localhost:1313/posts/6conclusion/</link>
+      <pubDate>Tue, 12 Mar 2024 09:18:08 -0400</pubDate>
+      <guid>http://localhost:1313/posts/6conclusion/</guid>
+      <description>Il est possible de nous inspirer de la TEI à une échelle qui est beaucoup plus large qu’uniquement l’analyse de textes par ordinateur. Inconsciemment, les historien.nne.s professionnel.le.s balisent les sources historiques de textes lorsqu’ils les lisent. Les systèmes de balisage comme la TEI permettent de concrétiser le processus qui survient dans la tête d’une personne qui lit un texte dans l’optique de mieux comprendre la société qui l’a produit. Ainsi, cette recherche démontre que pour la formation historienne au niveau secondaire, la TEI peut devenir un formidable outil duquel les enseignant.</description>
+    </item>
+    <item>
+      <title>7. Références</title>
+      <link>http://localhost:1313/posts/7references/</link>
+      <pubDate>Tue, 12 Mar 2024 09:17:08 -0400</pubDate>
+      <guid>http://localhost:1313/posts/7references/</guid>
+      <description>Cariou, D. (2022). Le document et l’indice : Apprendre l’histoire de l’école au lycée. Presses universitaires de Rennes. Gouvernement du Québec. (2010). Progression des apprentissages au secondaire, Histoire et éducation à la citoyenneté, 1 cycle. Lyster, R. (2016). Vers une approche intégrée en immersion. Edition CEC. Wineburg, S. S. (2001). Historical thinking and other unnatural acts : Charting the future of teaching the past. Temple University Press. Wineburg, S. S.</description>
+    </item>
+  </channel>
+</rss>
