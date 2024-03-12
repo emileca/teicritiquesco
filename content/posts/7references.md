@@ -1,7 +1,6 @@
 +++
 title = '7. Références'
 date = 2024-03-12T09:17:08-04:00
-draft = true
 +++
 
 - Cariou, D. (2022). Le document et l’indice : Apprendre l’histoire de l’école au lycée. Presses universitaires de Rennes.
