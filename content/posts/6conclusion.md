@@ -1,6 +1,6 @@
 +++
 title = '6. Conclusion'
-date = 2024-03-12T09:18:08-04:00
+weigth = 7
 +++
 
 Il est possible de nous inspirer de la TEI à une échelle qui est beaucoup plus large qu’uniquement l’analyse de textes par ordinateur. Inconsciemment, les historien.nne.s professionnel.le.s balisent les sources historiques de textes lorsqu’ils les lisent. Les systèmes de balisage comme la TEI permettent de concrétiser le processus qui survient dans la tête d’une personne qui lit un texte dans l’optique de mieux comprendre la société qui l’a produit. Ainsi, cette recherche démontre que pour la formation historienne au niveau secondaire, la TEI peut devenir un formidable outil duquel les enseignant.e.s pourraient s’inspirer. Dans le contexte du développement de la pensée critique au niveau secondaire, la TEI apparaît comme un cadre et une méthode.

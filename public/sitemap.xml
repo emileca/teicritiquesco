@@ -2,38 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2024-03-12T09:29:08-04:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2024-03-12T09:29:08-04:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/0resume/</loc>
-    <lastmod>2024-03-12T09:29:08-04:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/posts/1.introduction/</loc>
-    <lastmod>2024-03-12T09:26:08-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/2.justification/</loc>
-    <lastmod>2024-03-12T09:26:08-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/3.correspondance/</loc>
-    <lastmod>2024-03-12T09:24:08-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/4.comment/</loc>
-    <lastmod>2024-03-12T09:22:08-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/5.exemple/</loc>
-    <lastmod>2024-03-12T09:19:08-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/6conclusion/</loc>
-    <lastmod>2024-03-12T09:18:08-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/7references/</loc>
-    <lastmod>2024-03-12T09:17:08-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
   </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+  </url><url>
+    <loc>http://localhost:1313/posts/0resume/</loc>
+  </url><url>
     <loc>http://localhost:1313/tags/</loc>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
   </url>
 </urlset>
