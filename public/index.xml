@@ -8,14 +8,21 @@
     <language>fr</language>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>1. Introduction à l&#39;activité</title>
+      <title>1.Résumé</title>
+      <link>http://localhost:1313/posts/0resume/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/0resume/</guid>
+      <description>Le dernier grand chantier de réforme du programme d&amp;rsquo;histoire et Civilisation au Québec est marqué par une réorientation des compétences (Gouvernement du Québec, 2010). On y délaisse graduellement l&amp;rsquo;apprentissage de l&amp;rsquo;Histoire sous la forme d&amp;rsquo;un récit, au profit de la transmission de la “méthode historique” et, dans un sens plus large, de la pensée critique via une utilisation de sources primaires (Cariou, 2022) qui présente de nombreux avantages du point de vue du développement citoyen (Martineau, 2010).</description>
+    </item>
+    <item>
+      <title>2. Introduction à l&#39;activité</title>
       <link>http://localhost:1313/posts/1.introduction/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/1.introduction/</guid>
       <description>Le dernier grand chantier de réforme du programme d&amp;rsquo;Histoire et Civilisation au Québec (2010) est marqué par une réorientation des compétences. On y délaisse graduellement l&amp;rsquo;apprentissage de l’Histoire sous la forme d&amp;rsquo;un récit, au profit de la transmission de la &amp;ldquo;méthode historique&amp;rdquo; et dans un sens plus large de la pensée critique (Wineburg, 2001). Les avantages de la pensée critique sont nombreux (développement d&amp;rsquo;une pensée structurée, de la rationalité, d’une aptitude à être critique face aux textes, etc.</description>
     </item>
     <item>
-      <title>2. Pourquoi la TEI à l&#39;école ?</title>
+      <title>3. Pourquoi la TEI à l&#39;école ?</title>
       <link>http://localhost:1313/posts/2.justification/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/2.justification/</guid>
@@ -23,7 +30,7 @@
 Sur le plan strictement pratique, le cerveau de l’élève ne diffère que très peu d’une requête SQL (par exemple) qui permet à un chercheu.</description>
     </item>
     <item>
-      <title>3. Correspondance des codes</title>
+      <title>4. Correspondance des codes</title>
       <link>http://localhost:1313/posts/3.correspondance/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/3.correspondance/</guid>
@@ -31,14 +38,14 @@ Sur le plan strictement pratique, le cerveau de l’élève ne diffère que trè
 Éléments de base du sourcing* Identifie, énonce l&amp;rsquo;auteur. Énonce l&amp;rsquo;intention de l&amp;rsquo;auteur.</description>
     </item>
     <item>
-      <title>4. Comment le balisage peut permettre à l&#39;élève de mieux lire un document</title>
+      <title>5. Comment le balisage peut permettre à l&#39;élève de mieux lire un document</title>
       <link>http://localhost:1313/posts/4.comment/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/4.comment/</guid>
       <description>Le balisage permet à l’élève de segmenter les différents éléments qui lui permettront d’arriver à une réflexion historique. Si la TEI apparaît ici comme un outil de choix pour le balisage des sources historiques, c’est puisqu’elle se constitue de balises qui fonctionnent particulièrement bien dans le cadre des sciences humaines. L’analyse d’un texte au moyen de balises peut se faire chez l’élève de différentes façons (Lyster, 2016) : CONSCIENTISATION, PRATIQUE GUIDÉE ou PRATIQUE AUTONOME :</description>
     </item>
     <item>
-      <title>5. Un exemple : L&#39;appel aux croisades</title>
+      <title>6. Un exemple : L&#39;appel aux croisades</title>
       <link>http://localhost:1313/posts/5.exemple/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/5.exemple/</guid>
@@ -46,25 +53,18 @@ Sur le plan strictement pratique, le cerveau de l’élève ne diffère que trè
 A. Texte balisé &amp;lt;desc&amp;gt;Le &amp;lt;date&amp;gt;27 novembre 1095&amp;lt;date/&amp;gt;, &amp;lt;docAuthor&amp;gt;Urbain II&amp;lt;docAuthor/&amp;gt; , &amp;lt;roleName&amp;gt;le pape&amp;lt;roleName/&amp;gt; , proclame &amp;lt;time&amp;gt; la première croisade&amp;lt;time/&amp;gt; et appelle &amp;lt;orgName&amp;gt;les chevaliers chrétiens&amp;lt;orgName/&amp;gt; à libérer &amp;lt;place&amp;gt;Jérusalem&amp;lt;place/&amp;gt;.&amp;lt;desc/&amp;gt; Ô &amp;lt;orgName&amp;gt;fils de Dieu&amp;lt;orgName&amp;gt; !</description>
     </item>
     <item>
-      <title>6. Conclusion</title>
+      <title>7. Conclusion</title>
       <link>http://localhost:1313/posts/6conclusion/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/6conclusion/</guid>
       <description>Il est possible de nous inspirer de la TEI à une échelle qui est beaucoup plus large qu’uniquement l’analyse de textes par ordinateur. Inconsciemment, les historien.nne.s professionnel.le.s balisent les sources historiques de textes lorsqu’ils les lisent. Les systèmes de balisage comme la TEI permettent de concrétiser le processus qui survient dans la tête d’une personne qui lit un texte dans l’optique de mieux comprendre la société qui l’a produit. Ainsi, cette recherche démontre que pour la formation historienne au niveau secondaire, la TEI peut devenir un formidable outil duquel les enseignant.</description>
     </item>
     <item>
-      <title>7. Références</title>
+      <title>8. Références</title>
       <link>http://localhost:1313/posts/7references/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/7references/</guid>
       <description>Cariou, D. (2022). Le document et l’indice : Apprendre l’histoire de l’école au lycée. Presses universitaires de Rennes. Gouvernement du Québec. (2010). Progression des apprentissages au secondaire, Histoire et éducation à la citoyenneté, 1 cycle. Lyster, R. (2016). Vers une approche intégrée en immersion. Edition CEC. Wineburg, S. S. (2001). Historical thinking and other unnatural acts : Charting the future of teaching the past. Temple University Press. Wineburg, S. S.</description>
-    </item>
-    <item>
-      <title>Résumé</title>
-      <link>http://localhost:1313/posts/0resume/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/0resume/</guid>
-      <description>Le dernier grand chantier de réforme du programme d&amp;rsquo;histoire et Civilisation au Québec est marqué par une réorientation des compétences (Gouvernement du Québec, 2010). On y délaisse graduellement l&amp;rsquo;apprentissage de l&amp;rsquo;Histoire sous la forme d&amp;rsquo;un récit, au profit de la transmission de la “méthode historique” et, dans un sens plus large, de la pensée critique via une utilisation de sources primaires (Cariou, 2022) qui présente de nombreux avantages du point de vue du développement citoyen (Martineau, 2010).</description>
     </item>
   </channel>
 </rss>
