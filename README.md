@@ -4,7 +4,7 @@
 
 La TEI, ou Text Encoding Initiative, est une norme XML utilisée pour décrire et structurer des documents textuels. Elle fournit des directives pour encoder divers aspects des textes, tels que leur structure, leur mise en page, leurs métadonnées et leur analyse linguistique. Conçue pour être flexible et extensible, la TEI permet de représenter une grande variété de documents, y compris des manuscrits anciens, des œuvres littéraires, des documents historiques et des corpus linguistiques. En permettant une représentation informatique précise des textes, la TEI facilite leur étude, leur analyse et leur préservation à travers différentes disciplines académiques et institutions culturelles.
 
-![Logo TEI] (https://tei-c.org/Vault/Logo_2023/website/TEI_Logo_Horizontal.png)
+![Logo TEI](https://tei-c.org/Vault/Logo_2023/website/TEI_Logo_Horizontal.png)
 
 ## À propos de cette activité
 
